@@ -8,13 +8,13 @@ import { getAnalytics } from "firebase/analytics";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyCiB_XIwV8ML25ZyrbgpmN7zDxPC7_fbLg",
-  authDomain: "disney-hotstar-clone-b5254.firebaseapp.com",
-  projectId: "disney-hotstar-clone-b5254",
-  storageBucket: "disney-hotstar-clone-b5254.appspot.com",
-  messagingSenderId: "883244860416",
-  appId: "1:883244860416:web:ae0662151bcbdb19a4c4e5",
-  measurementId: "G-3RG97177TJ",
+  apiKey: "your api key",
+  authDomain: "your auth domain",
+  projectId: "your project id",
+  storageBucket: "your storage bucket",
+  messagingSenderId: "you messaging sender id",
+  appId: "your app id",
+  measurementId: "your measurement id",
 };
 
 // Initialize Firebase
